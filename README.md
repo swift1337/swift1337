@@ -1,6 +1,6 @@
 ## About
 - Builder
-- Action produces information (c) PG
+- Action produces information
 - Always researching <img src="https://github.com/user-attachments/assets/0b73983b-0d62-41fb-8126-40dd8185f7de" width="22">
 
 ## Blog
